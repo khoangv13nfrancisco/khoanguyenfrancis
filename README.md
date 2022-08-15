@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @khoafrancis
-- 👀 I’m interested in playing football
-- 🌱 I’m currently learning Informaition Technology
+
